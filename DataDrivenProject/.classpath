@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-20">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="F:/selenium-server-4.11.0.jar"/>
+	<classpathentry kind="lib" path="F:/jxl-2.6.jar/jxl-2.6.jar"/>
+	<classpathentry kind="lib" path="F:/ApachePOI/dom4j-2.0.2.jar"/>
+	<classpathentry kind="lib" path="F:/jar_files (2)/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="F:/jar_files (2)/log4j-api-2.18.0.jar"/>
+	<classpathentry kind="lib" path="F:/jar_files (2)/poi-5.2.3.jar"/>
+	<classpathentry kind="lib" path="F:/jar_files (2)/poi-ooxml-5.2.3.jar"/>
+	<classpathentry kind="lib" path="F:/jar_files (2)/poi-ooxml-lite-5.2.3.jar"/>
+	<classpathentry kind="lib" path="F:/jar_files (2)/xmlbeans-5.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/jar_files (2)/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="F:/jar_files (2)/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="F:/ApachePOI/log4j-core-2.20.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
